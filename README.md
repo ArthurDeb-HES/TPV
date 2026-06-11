@@ -42,7 +42,7 @@ Ce projet implémente une **pipeline scientifique** qui transforme un plan binai
 
 ```bash
 # 1. Cloner le repository
-git clone https://github.com/ArthurDeb/TPV.git
+git clone https://github.com/ArthurDeb-HES/TPV.git
 cd TPV
 
 # 2. Créer un environnement virtuel (fortement recommandé)
